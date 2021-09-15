@@ -5,3 +5,4 @@ first method>>> storeUrl method actually bind the uniqeID and url into a table
 second method>> getUniqeId method actually getting the specfic Url keys
 third method>> getCount is returns latest count in this code.
 fourth method getList method return json format using the pair of map.
+you can get step by step information in other Readme file in code bash directory. 
